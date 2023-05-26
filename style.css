@@ -119,7 +119,7 @@ nav li {
 
 			/*productos pagina aparte*/
 #catalogo,#ofertas {
-	background: #cfcfcf;
+	background: #efefef;
 	flex-wrap: nowrap;
 	width: 90%;
 	margin: auto;
